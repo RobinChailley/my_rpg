@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="my_rpg_2017"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_rpg_2017">
+				<Option output="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/my_rpg_2017" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/include"/>
+					<Add directory="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 my_rpg_2017"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_rpg_2017/fast">
+				<Option output="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/my_rpg_2017" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/include"/>
+					<Add directory="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 my_rpg_2017/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/include/my.h">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/main.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/include/my.h">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/main.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/animation/animation.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/camera/camera_down.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/camera/camera_left.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/camera/camera_right.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/camera/camera_up.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/clock/main_clock.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/collision/collision_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/collision/collision_shots.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/collision/collision_shots2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/core/core.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/core/core_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/core/hover_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_btn.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_history.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_obj.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_struct.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_struct2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_struct_sound.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/create_structweapon.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/init_inventory.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/init_linked_list.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/create/loading.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/death/death_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/death/death_management_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/debug/display_obstacles.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/despawn/despawn_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dialog/dialog_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display_minimap.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display_stats.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display_stats2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/display/display_string.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/dungeon_1/go_to_scene_dungeon1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/dungeon_1/spawn_dungeon1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/dungeon_2/go_to_scene_dungeon2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/dungeon_2/spawn_dungeon2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/dungeon_mechanics.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/dungeon_reset.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/dungeon/go_back_city.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/effect_graph/do_rain.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/effect_graph/halo_centered_on_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/event/button_callback_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/func_shop1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/func_shop2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/func_shop3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/func_shop4.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/func_shop5.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_carac.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_htp.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_in_weapon.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_in_weapon2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_inventory.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_inventory2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_pause.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/funcs_sounds.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/go_to_scenes_1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/go_to_scenes_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/go_to_scenes_3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/init.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/init2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/funcs/take_item.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/hud/hud_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/hud/hud_management_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/hunger_thirst/hunger_thirst.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/inventory/inventory.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/inventory/inventory2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/get_file.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_getcharstar.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_getnbr.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_put.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_str_to_wa.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_strcat.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_strcmp.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_strcpy.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/lib/my_strlen.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_assets/load_fonts.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_assets/load_sounds.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_assets/load_textures.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_color_type.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_despawn.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_id.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_offset.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_pos.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_rect.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_sf_color.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_size.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_state.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/get_str.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/parser_obj.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/load_scenes/scene_creater.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/map_management/read_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/map_management/read_shop_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/minimap/display_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/minimap/minimap_ig.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/mobs/animation_mob.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/mobs/collision_direction_mob.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/mobs/create_mobs.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/mobs/create_mobs_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/mobs/gestion_mobs.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/animation.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/damage_taken.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/display_xp_in_bar.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/exp_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/init_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/player_movement.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/player/rotation_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/quest/quest_1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/quest/quest_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/search_car/search_car.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/shop/displayshop.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/shop/initshop.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/shop/initshop2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/shop/initshop3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/shot/shot_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/shot/shots_types.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/sound/rect_sound.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/spawning/spawning_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/stats/stat_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/teleportation/display_tp_btn.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/warning/warning.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/rpg/my_rpg_2017/sources/weapons/init_weapons.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/animation/animation.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/camera/camera_down.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/camera/camera_left.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/camera/camera_right.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/camera/camera_up.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/clock/main_clock.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/collision/collision_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/collision/collision_shots.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/collision/collision_shots2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/core/core.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/core/core_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/core/hover_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_btn.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_history.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_obj.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_struct.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_struct2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_struct_sound.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/create_structweapon.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/init_inventory.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/init_linked_list.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/create/loading.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/death/death_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/death/death_management_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/debug/display_obstacles.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/despawn/despawn_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dialog/dialog_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display_minimap.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display_stats.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display_stats2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/display/display_string.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/dungeon_1/go_to_scene_dungeon1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/dungeon_1/spawn_dungeon1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/dungeon_2/go_to_scene_dungeon2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/dungeon_2/spawn_dungeon2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/dungeon_mechanics.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/dungeon_reset.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/dungeon/go_back_city.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/effect_graph/do_rain.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/effect_graph/halo_centered_on_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/event/button_callback_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/func_shop1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/func_shop2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/func_shop3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/func_shop4.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/func_shop5.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_carac.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_htp.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_in_weapon.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_in_weapon2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_inventory.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_inventory2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_pause.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/funcs_sounds.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/go_to_scenes_1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/go_to_scenes_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/go_to_scenes_3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/init.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/init2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/funcs/take_item.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/hud/hud_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/hud/hud_management_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/hunger_thirst/hunger_thirst.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/inventory/inventory.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/inventory/inventory2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/get_file.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_getcharstar.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_getnbr.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_put.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_str_to_wa.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_strcat.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_strcmp.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_strcpy.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/lib/my_strlen.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_assets/load_fonts.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_assets/load_sounds.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_assets/load_textures.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_color_type.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_despawn.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_id.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_offset.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_pos.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_rect.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_sf_color.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_size.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_state.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/get_str.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/parser_obj.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/load_scenes/scene_creater.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/map_management/read_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/map_management/read_shop_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/minimap/display_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/minimap/minimap_ig.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/mobs/animation_mob.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/mobs/collision_direction_mob.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/mobs/create_mobs.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/mobs/create_mobs_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/mobs/gestion_mobs.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/animation.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/damage_taken.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/display_xp_in_bar.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/exp_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/init_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/player_movement.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/player/rotation_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/quest/quest_1.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/quest/quest_2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/search_car/search_car.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/shop/displayshop.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/shop/initshop.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/shop/initshop2.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/shop/initshop3.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/shot/shot_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/shot/shots_types.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/sound/rect_sound.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/spawning/spawning_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/stats/stat_management.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/teleportation/display_tp_btn.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/warning/warning.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/sources/weapons/init_weapons.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/home/chailley/delivery/GRAPHIQUE/my_rpg_2017/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
